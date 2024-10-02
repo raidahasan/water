@@ -1,0 +1,37 @@
+.one{
+    background-color: rgb(80, 170, 248);
+}
+
+.two{
+    background-color: rgb(38, 145, 211);
+}
+
+.three{
+    background-color: rgb(0, 95, 162);
+}
+
+p{
+    color: white;
+}
+
+body{
+    background-color: rgb(0, 51, 87);
+}
+
+h1{
+    color: white;
+}
+
+img{
+    width: 1020px;
+    height:400px;
+    border-radius: 50%;
+}
+
+h2{
+    color: white;
+}
+
+.wave:hover{
+    filter: brightness(1.5);
+}
